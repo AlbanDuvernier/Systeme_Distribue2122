@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<etudiant nom="Duvernier">
+    <date>
+        <annee>2000</annee>
+        <jours>26</jours>
+        <mois>11</mois>
+    </date>
+    <prenom>Alban</prenom>
+</etudiant>
